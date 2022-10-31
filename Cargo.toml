@@ -1,5 +1,5 @@
 [package]
-name = "blog_os"
+name = "gina"
 version = "0.1.0"
 authors = ["Walacy Silva <walacysm@gmail.com>"]
 edition = "2018"
